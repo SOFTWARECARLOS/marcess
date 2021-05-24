@@ -1,0 +1,161 @@
+/*---nav---*/
+.logo-main{
+    width: 400px;
+    padding: 10px 0;
+}
+.size{
+    font-size: 30px;
+    margin-left: 20px;
+    text-align: center;
+    color: #bc2f0a;;
+    cursor: pointer;
+}
+.size:hover{
+    background: #fcb697;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+.navbar{
+    font-size: 16px;
+}
+.navbar-light{
+    background-color: #fcb697;
+}
+.navbar-toggler-icon:hover{
+    background: #ecd0c4fb;
+    font-size: 100%;
+    border-radius: 20px;
+}
+.nav-link {
+    color: #bc2f0a !important;
+}
+.nav-link:hover{
+    color: #e89304  !important;
+    font-size: 25px;
+    border-radius: 20px;
+}
+.dropdown-menu{
+    background: rgba(0,0,0, 0.70);
+    border-radius: 20px;
+    
+}
+.dropdown-item{
+    color: #fcb697;
+}
+.dropdown-item:hover{
+    background-color: #fcb697;
+}
+/*--carusel--*/
+.carusel1{
+    width: 2000px;
+    height: 500px;
+    object-fit: cover;
+}
+.carousel-caption{
+    color: #e89304;
+    font-size: 30px;
+}
+.carousel-caption:hover{
+    color: black;
+}
+.text-blog{
+    text-decoration: none;
+    color: black;
+}
+.text-blog:hover{
+    color: #e89304;
+}
+/*--contenido principal--*/
+.button-video{
+    font-size: 20px;
+}
+.btn-dark:hover{
+    color: #e89304 ;
+}
+.fondoser{
+    background-color: #fcb697;
+}
+.btn:hover{
+    color: #e89304;
+}
+.form-control{
+    color: #bc2f0a;
+}
+
+.form-control:hover{
+    color: #e89304;
+}
+.btn .btn-outline{
+    color: #fcb697;
+}
+.text-ligth{
+    color: #bc2f0a;
+}
+.text-muted{
+    color: #e89304 !important;
+    text-decoration: none;
+}
+.bg-ligth{
+    background-color: #fcb697 ;
+}
+.mt-6{
+    margin-top: 4rem; 
+}
+.h3-text{
+    color: white;
+    text-decoration: none;
+}
+.form-control:focus{
+    outline: none !important;
+    box-shadow: #e4481e !important;
+    border: 1px solid #e4481e !important;
+}
+.h3{
+    color: #fcb697;
+    text-decoration: none;
+}
+.h3:hover{
+    color: #bc2f0a;
+}
+.text-muted {
+    text-decoration: none;
+}
+.h31{
+    color: #fcb697;
+    float: right;
+    font-weight: 500;
+   
+}
+.btn-outline{
+    background-color: #bc2f0a;
+}
+.btn{
+    color: #fcb697;
+}
+.Search{
+    color: #bc2f0a;
+}
+.icon-porta{
+    font-size: 40px;
+    background-color: #bc2f0a;
+    color: #fcb697;
+    border-radius: 20px;
+}
+.icon-porta:hover{
+    color: #e89304;
+}
+.bg-ligth-grey{
+    background-color: beige;
+    box-shadow: inset;
+}
+.navbar-brand{
+    color: #bc2f0a !important;
+}
+.dropdown-item{
+    border-radius: 20px;
+}
+
+
+
+
+
